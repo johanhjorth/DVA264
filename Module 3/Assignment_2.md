@@ -5,7 +5,7 @@ Sudoku is a mathematical puzzle game. In Sudoku, we have a 9x9 grid with numbers
 - A number will appear once in each 3x3 small grid
 
 
-<img src="../assets/sudoku.png" alt="MarineGEO circle logo" style="height: 250px; width:553px;"/>
+<img src="../assets/sudoku.png" alt="Sudoku Puzzle" style="height: 250px; width:553px;"/>
 
 **Figure 1**: (left) Initial grid. (right) Solution of the Sudoku.
 
