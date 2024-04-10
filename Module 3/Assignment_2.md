@@ -4,8 +4,11 @@ Sudoku is a mathematical puzzle game. In Sudoku, we have a 9x9 grid with numbers
 - A number will appear once in each row.
 - A number will appear once in each 3x3 small grid
 
-PICTURE OF SUDOKU HERE
-Figure 1: (left) Initial grid. (right) Solution of the Sudoku.
+
+<img src="../assets/emptySudoku.png" alt="MarineGEO circle logo" style="height: 250px; width:250px;"/>
+<img src="../assets/solvedSudoku.png" alt="MarineGEO circle logo" style="height: 250px; width:250px;"/>
+
+**Figure 1**: (left) Initial grid. (right) Solution of the Sudoku.
 
 The different Sudokus are given in the file “assignment 2 sudoku.txt”. The Sudoku from the picture would be given in the file with the following format:
 
